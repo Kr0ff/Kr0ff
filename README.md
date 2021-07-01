@@ -1,16 +1,31 @@
-### Hi there 👋
+### Ahoy 👋
 
-<!--
-**Kr0ff/Kr0ff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+                         _______
+                 ,--,,--'       '-------,_
+                (        ---              ',
+                .'          '-     ,__  ,_)
+               (      "          _     __)
+                '--`"----.~.-`--` `---`
+                        / /   \   \   \
+       |/  |           / /  \ \ \ \ \    \
+      \I  \/          / /  \     \  \ \
+        \_/           //       \  \  \
+     ,_@@ ,>         //    \  \  \  \ \ \ \
+     (___ \__        //              \
+       ./\   \____   //       \  \    \  \
+         /|  ---"-' //                   \    \
+        // \    )\  / -                    \
+       /|   \ _ \- ' -__
+       ~    // \ | \
+           //   \\
+          //     \\
+snd      '-'     '-'
+```
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: Pigs can fly if you put robotic wings that can you control remotely 🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I put this here cuz I thought it looks nice...
+
+![Kr0ff's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kr0ff&theme=dark&show_icons=true&count_private=true) 
+![Kr0ffs' Ghub streak](https://github-readme-streak-stats.herokuapp.com/?user=Kr0ff&theme=dark)
