@@ -1,4 +1,3 @@
 ### Ahoy 👋
-- ⚡ Fun fact: Pigs can fly if you put robotic wings that can you control remotely 🤓
 
-![Metrics](https://metrics.lecoq.io/Kr0ff?template=classic&repositories=300&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon)
+![gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2QzNDVlM2IxNTAzOTU0ZDVmYzQ0NTYzMGJmMjg4NzJhMjRkYTM0YSZjdD1n/8l98VVUTKPhbG/giphy.gif)
